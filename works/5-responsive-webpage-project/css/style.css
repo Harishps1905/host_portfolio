@@ -1,0 +1,63 @@
+#about{
+    padding-top: 66px;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+}
+#header .nav-link{
+    
+    font-weight: 700;
+}
+#header .nav-link:hover{
+    color: white;
+    background-color: #36383a;
+    transition-duration: 1s;
+
+}
+#jumbotron-bgimg{
+
+    background-image: url(../img/overlay-bg.jpg);
+    min-height: 500px;
+    background-attachment: fixed;
+}
+.jumbotron{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#footer-top{
+    color: white;
+    background-color: rgb(71, 70, 70);
+}
+#footer-bottom{
+    color: white;
+    background-color: rgb(94, 90, 90);
+}
+h2{
+    
+    font-weight: bolder;
+    font-size: 59px;
+}
+.carousel-item h5{
+    
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(82, 76, 76);
+
+}
+.carousel-item p{
+    
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(82, 76, 76);
+    
+}
+#footer-position2 a:hover{
+    background-color: #fff;
+    color: grey;
+    border-radius: 100%;
+}
+
+
+
+
